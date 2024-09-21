@@ -18,10 +18,6 @@
           "itemname": "női fehérnemű",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
           "foundplace": "\"C\" épület",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -30,10 +26,6 @@
           "itemname": "női fürdőruha",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor.",
           "foundplace": "\"D\" épület",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -42,10 +34,6 @@
           "itemname": "nőis szemüveg",
           "description": "Nullam eget libero nec velit dignissim venenatis. Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor.",
           "foundplace": "\"C\" épület",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -54,10 +42,6 @@
           "itemname": "nyaklánc",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor. Nullam eget libero nec velit dignissim venenatis.",
           "foundplace": "\"Festetics\" öltöző",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -66,10 +50,6 @@
           "itemname": "papucs",
           "description": "Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor. Nullam eget libero nec velit dignissim venenatis.",
           "foundplace": "\"C\" épület",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -78,10 +58,6 @@
           "itemname": "női napszemüveg",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
           "foundplace": "\"G\" előtér",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -90,10 +66,6 @@
           "itemname": "fülbevaló",
           "description": "Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget libero nec velit dignissim venenatis.",
           "foundplace": "\"G\" előtér",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -102,10 +74,6 @@
           "itemname": "férfi szemüveg",
           "description": "Nullam eget libero nec velit dignissim venenatis. Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor.",
           "foundplace": "szaunavilág",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -114,10 +82,6 @@
           "itemname": "női fürdőruha",
           "description": "Nullam eget libero nec velit dignissim venenatis. Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor.",
           "foundplace": "\"C\" épület",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -126,10 +90,6 @@
           "itemname": "bankkártya",
           "description": "Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget libero nec velit dignissim venenatis.",
           "foundplace": "szaunavilág",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -138,10 +98,6 @@
           "itemname": "személyi igazolvány",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor.",
           "foundplace": "\"Festetics\" öltöző",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -150,10 +106,6 @@
           "itemname": "szobakártya",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget libero nec velit dignissim venenatis.",
           "foundplace": "\"D\" épület",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -162,10 +114,6 @@
           "itemname": "fülbevaló",
           "description": "Nullam eget libero nec velit dignissim venenatis.",
           "foundplace": "\"D\" épület",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -174,10 +122,6 @@
           "itemname": "férfi szemüveg",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget libero nec velit dignissim venenatis.",
           "foundplace": "\"Festetics\" öltöző",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -186,10 +130,6 @@
           "itemname": "női bikini",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
           "foundplace": "Központi fürdőház",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -198,10 +138,6 @@
           "itemname": "szobakártya",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
           "foundplace": "Vital Bar",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -210,10 +146,6 @@
           "itemname": "férfi szemüveg",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor.",
           "foundplace": "Központi fürdőház",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -222,10 +154,6 @@
           "itemname": "gyerek napszemüveg",
           "description": "Nullam eget libero nec velit dignissim venenatis.",
           "foundplace": "\"G\" előtér",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -234,10 +162,6 @@
           "itemname": "férfi fürdőruha",
           "description": "Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor. Nullam eget libero nec velit dignissim venenatis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
           "foundplace": "Vital Bar",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -246,10 +170,6 @@
           "itemname": "szobakártya",
           "description": "Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor. Nullam eget libero nec velit dignissim venenatis.",
           "foundplace": "\"G\" öltöző",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -258,10 +178,6 @@
           "itemname": "nőis szemüveg",
           "description": "Nullam eget libero nec velit dignissim venenatis.",
           "foundplace": "\"Festetics\" öltöző",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -270,10 +186,6 @@
           "itemname": "karóra",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor.",
           "foundplace": "\"D\" épület",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -282,10 +194,6 @@
           "itemname": "sapka",
           "description": "Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor.",
           "foundplace": "Vital Bar",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         },
         {
@@ -294,10 +202,6 @@
           "itemname": "útlevél",
           "description": "Nullam eget libero nec velit dignissim venenatis. Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor.",
           "foundplace": "\"G\" előtér",
-          "founder": "",
-          "deliverydate": "",
-          "deliveryemployee": "",
-          "recipientguest": "",
           "image": ""
         }
       ]
