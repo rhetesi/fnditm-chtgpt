@@ -2,7 +2,6 @@
     "items": [        
         {
           "id": "665c7e72ac78142d0033",
-          "founddate": "2024-06-02T16:15:14",
           "itemname": "női napszemüveg",
           "description": "Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget libero nec velit dignissim venenatis.",
           "foundplace": "szaunavilág",
@@ -14,7 +13,6 @@
         },
         {
           "id": "665ce2aaac7814e80038",
-          "founddate": "2024-06-02T23:22:50",
           "itemname": "női fehérnemű",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
           "foundplace": "\"C\" épület",
@@ -22,7 +20,6 @@
         },
         {
           "id": "6663f726ac7814ee0018",
-          "founddate": "2024-06-08T08:16:06",
           "itemname": "női fürdőruha",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor.",
           "foundplace": "\"D\" épület",
@@ -30,7 +27,6 @@
         },
         {
           "id": "6666c563ac7814300022",
-          "founddate": "2024-06-10T11:20:35",
           "itemname": "nőis szemüveg",
           "description": "Nullam eget libero nec velit dignissim venenatis. Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor.",
           "foundplace": "\"C\" épület",
@@ -38,7 +34,6 @@
         },
         {
           "id": "666a17aaac78145e0046",
-          "founddate": "2024-06-12T23:48:26",
           "itemname": "nyaklánc",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor. Nullam eget libero nec velit dignissim venenatis.",
           "foundplace": "\"Festetics\" öltöző",
@@ -46,7 +41,6 @@
         },
         {
           "id": "667cd002ac7814500016",
-          "founddate": "2024-06-27T04:35:46",
           "itemname": "papucs",
           "description": "Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor. Nullam eget libero nec velit dignissim venenatis.",
           "foundplace": "\"C\" épület",
@@ -54,7 +48,6 @@
         },
         {
           "id": "66873b50ac7814d10047",
-          "founddate": "2024-07-05T02:16:16",
           "itemname": "női napszemüveg",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
           "foundplace": "\"G\" előtér",
@@ -62,7 +55,6 @@
         },
         {
           "id": "668f7513ac7814ad0008",
-          "founddate": "2024-07-11T08:00:51",
           "itemname": "fülbevaló",
           "description": "Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget libero nec velit dignissim venenatis.",
           "foundplace": "\"G\" előtér",
@@ -70,7 +62,6 @@
         },
         {
           "id": "668fc2d5ac7814650031",
-          "founddate": "2024-07-11T13:32:37",
           "itemname": "férfi szemüveg",
           "description": "Nullam eget libero nec velit dignissim venenatis. Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor.",
           "foundplace": "szaunavilág",
@@ -78,7 +69,6 @@
         },
         {
           "id": "669d63caac7814170034",
-          "founddate": "2024-07-21T21:38:50",
           "itemname": "női fürdőruha",
           "description": "Nullam eget libero nec velit dignissim venenatis. Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor.",
           "foundplace": "\"C\" épület",
@@ -86,7 +76,6 @@
         },
         {
           "id": "669f6926ac7814710009",
-          "founddate": "2024-07-23T10:26:14",
           "itemname": "bankkártya",
           "description": "Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget libero nec velit dignissim venenatis.",
           "foundplace": "szaunavilág",
@@ -94,7 +83,6 @@
         },
         {
           "id": "66a6ad6aac7814120002",
-          "founddate": "2024-07-28T22:43:22",
           "itemname": "személyi igazolvány",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor.",
           "foundplace": "\"Festetics\" öltöző",
@@ -102,7 +90,6 @@
         },
         {
           "id": "66a93145ac7814290031",
-          "founddate": "2024-07-30T20:30:29",
           "itemname": "szobakártya",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget libero nec velit dignissim venenatis.",
           "foundplace": "\"D\" épület",
@@ -110,7 +97,6 @@
         },
         {
           "id": "66b48ae4ac7814fb0008",
-          "founddate": "2024-08-08T11:07:48",
           "itemname": "fülbevaló",
           "description": "Nullam eget libero nec velit dignissim venenatis.",
           "foundplace": "\"D\" épület",
@@ -118,7 +104,6 @@
         },
         {
           "id": "66c6ec9eac78146d0020",
-          "founddate": "2024-08-22T09:45:34",
           "itemname": "férfi szemüveg",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget libero nec velit dignissim venenatis.",
           "foundplace": "\"Festetics\" öltöző",
@@ -126,7 +111,6 @@
         },
         {
           "id": "66d0c888ac7814990047",
-          "founddate": "2024-08-29T21:14:16",
           "itemname": "női bikini",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
           "foundplace": "Központi fürdőház",
@@ -134,7 +118,6 @@
         },
         {
           "id": "66d7ac6dac7814740017",
-          "founddate": "2024-09-04T02:40:13",
           "itemname": "szobakártya",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
           "foundplace": "Vital Bar",
@@ -142,7 +125,6 @@
         },
         {
           "id": "66df4e6bac7814ce0037",
-          "founddate": "2024-09-09T21:37:15",
           "itemname": "férfi szemüveg",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor.",
           "foundplace": "Központi fürdőház",
@@ -150,7 +132,6 @@
         },
         {
           "id": "66e4fd14ac78147e0034",
-          "founddate": "2024-09-14T05:03:48",
           "itemname": "gyerek napszemüveg",
           "description": "Nullam eget libero nec velit dignissim venenatis.",
           "foundplace": "\"G\" előtér",
@@ -158,7 +139,6 @@
         },
         {
           "id": "66e9e930ac7814fa0004",
-          "founddate": "2024-09-17T22:40:16",
           "itemname": "férfi fürdőruha",
           "description": "Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor. Nullam eget libero nec velit dignissim venenatis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
           "foundplace": "Vital Bar",
@@ -166,7 +146,6 @@
         },
         {
           "id": "66f43f28ac7814600031",
-          "founddate": "2024-09-25T18:49:44",
           "itemname": "szobakártya",
           "description": "Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor. Nullam eget libero nec velit dignissim venenatis.",
           "foundplace": "\"G\" öltöző",
@@ -174,7 +153,6 @@
         },
         {
           "id": "66f4c86bac7814b60009",
-          "founddate": "2024-09-26T04:35:23",
           "itemname": "nőis szemüveg",
           "description": "Nullam eget libero nec velit dignissim venenatis.",
           "foundplace": "\"Festetics\" öltöző",
@@ -182,7 +160,6 @@
         },
         {
           "id": "66f76f7bac7814980021",
-          "founddate": "2024-09-28T04:52:43",
           "itemname": "karóra",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor.",
           "foundplace": "\"D\" épület",
@@ -190,7 +167,6 @@
         },
         {
           "id": "66f93d9fac78143d0033",
-          "founddate": "2024-09-29T13:44:31",
           "itemname": "sapka",
           "description": "Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor.",
           "foundplace": "Vital Bar",
@@ -198,7 +174,6 @@
         },
         {
           "id": "66faa440ac7814140005",
-          "founddate": "2024-09-30T15:14:40",
           "itemname": "útlevél",
           "description": "Nullam eget libero nec velit dignissim venenatis. Vestibulum auctor neque eu augue facilisis, a condimentum magna porttitor.",
           "foundplace": "\"G\" előtér",
