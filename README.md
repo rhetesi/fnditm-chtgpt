@@ -5,4 +5,6 @@ Saját teszt JSON szerver használata az adott tárolóban a Typicode segítség
 De még egyszerűbb és biztosan működik, ha a my-json-server megoldást próbálod: https://my-json-server.typicode.com/
 Itt és most ez a szerver: https://my-json-server.typicode.com/rhetesi/fnditm-chtgpt
 
+Favicon és egyéb ikonok használata: https://en.wikipedia.org/wiki/Favicon
+
 Véletlen kép beszúrása, hogy ne üres placeholder legyen a szerkesztés alatt: https://picsum.photos/
