@@ -8,13 +8,11 @@ const getAll = async (entities) => {
     try {
       const response = await fetch(`${apiUrl}/${entities}`);
       const result = await response.json();
-      // console.log(result);
       return result
     } catch (error) {
       console.error(error)
     }
   }
-//   getItemsfromAPI();
 
 // get
 const get = async (entities, id) => {
