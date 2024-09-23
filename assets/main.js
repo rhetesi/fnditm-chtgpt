@@ -14,4 +14,4 @@ const itemsEntity = 'items';
 //       console.error(error)
 //     }
 //   }
-  getAllItemsfromAPI();
+getAllItemsfromAPI(itemsEntity);

@@ -4,9 +4,9 @@ import apiUrl from "./config.js";
 // Base CRUD service
 
 // getAll
-const getAllItemsfromAPI = async () => {
+const getAllItemsfromAPI = async (entity) => {
     try {
-      const response = await fetch(`${apiUrl}/${itemsEntity}`);
+      const response = await fetch(`${apiUrl}/${entity}`);
       const result = await response.json();
       console.log(result);
     } catch (error) {
