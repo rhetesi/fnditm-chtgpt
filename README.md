@@ -12,5 +12,6 @@ FetchAPI leírások:
 - https://learnjavascript.online/topics/fetch.html
 - https://javascript.info/fetch
 
+MongoDb ObjectID: https://www.mongodb.com/docs/manual/reference/method/ObjectId/#mongodb-method-ObjectId
 
 Véletlen kép beszúrása, hogy ne üres placeholder legyen a szerkesztés alatt: https://picsum.photos/
