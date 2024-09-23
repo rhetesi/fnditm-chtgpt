@@ -14,4 +14,7 @@ const itemsEntity = 'items';
 //       console.error(error)
 //     }
 //   }
-getAllItemsfromAPI(itemsEntity);
+const listAll = async () => {
+    getAll(itemsEntity);
+    console.log(itemsEntity);
+}

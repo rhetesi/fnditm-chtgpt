@@ -4,11 +4,12 @@ import apiUrl from "./config.js";
 // Base CRUD service
 
 // getAll
-const getAllItemsfromAPI = async (entity) => {
+const getAll = async (entities) => {
     try {
-      const response = await fetch(`${apiUrl}/${entity}`);
+      const response = await fetch(`${apiUrl}/${entities}`);
       const result = await response.json();
-      console.log(result);
+      // console.log(result);
+      return result
     } catch (error) {
       console.error(error)
     }
@@ -16,6 +17,15 @@ const getAllItemsfromAPI = async (entity) => {
 //   getItemsfromAPI();
 
 // get
+const get = async (entities, id) => {
+  try {
+    const response = await fetch(`${apiUrl}/${entities}/${id}`);
+    const result = await response.json();
+    return result;
+  } catch (error) {
+    console.error(error)
+  }
+}
 
 // Create
 
@@ -23,4 +33,4 @@ const getAllItemsfromAPI = async (entity) => {
 
 // Delete
 
-export { getAllItemsfromAPI }
+export { getAll, get }
