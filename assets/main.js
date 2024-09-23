@@ -12,18 +12,15 @@ let itemsList = [];
 let usersList = [];
 // let itemsList2 = [];
 
+// A getList() megfelelő entity és array paraméterek meghívásával
+// az API felől érkező elemek a tömbbe kerülnek
 const getList = async (entity, array) => {
  
-    // így látszólag egy tömbön belüli tömbben vannak az adatok
-    // persze mert magát a tömböt push-olod bele a külső tömbbe,
-    // itemsList2.push(await getAll(entity));
-
-    // ahelyett, hogy szépen végigmennél a tömb elemein és azokat egyesével adnád át
+    // forEach()-el végigmenve az intern tömb elemeit egyesével átadja a hívásban szereplő tömbnek
     const internArray = await getAll(entity);
     internArray.forEach(element => {
         array.push(element)
     });
-    // return array = internArray.map(element => element);
 }
 
 // A getList() megfelelő entity és array paraméterek meghívásával
