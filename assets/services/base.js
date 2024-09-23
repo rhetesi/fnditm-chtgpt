@@ -9,7 +9,7 @@ const getAll = async (entities) => {
       const response = await fetch(`${apiUrl}/${entities}`);
       const result = await response.json();
       console.log(result);
-      return result
+      // return result
     } catch (error) {
       console.error(error)
     }
