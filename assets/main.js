@@ -1,6 +1,6 @@
 'use strict';
 import apiUrl  from './services/config.js';
-import { getAllItemsfromAPI } from './services/base.js';
+import { getAll, get } from './services/base.js';
 
 // const apiUrl = 'https://my-json-server.typicode.com/rhetesi/fnditm-chtgpt';
 const itemsEntity = 'items';
