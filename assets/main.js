@@ -14,8 +14,9 @@ const itemsEntity = 'items';
 //       console.error(error)
 //     }
 //   }
-/* const listAll = async (itemsEntity) => {
+const listAll = async (itemsEntity) => {
     getAll(itemsEntity);
     console.log(itemsEntity);
-} */
-getAll(itemsEntity);
+}
+listAll();
+// getAll(itemsEntity);
